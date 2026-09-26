@@ -52,4 +52,26 @@ The dashboard provides a visual summary of the expense data and makes it easier 
 * Easy-to-understand visual representation
 
 The dashboard helps convert the summarized data into clear and meaningful visual insights.
+## 3️⃣ Expense_Management_Dashboard Excel Project
+
+The complete Excel project file is provided below for detailed analysis.
+
+### 📁 Excel File
+
+[Download/View Complete Excel Project](Expense_Management_Dashboard.xlsx)
+
+The Excel file contains the original data, Pivot Tables, calculations, charts, and interactive dashboard used in this project.
+
+## 4️⃣ Key Insights
+
+The analysis helped identify important patterns in the expense data, including:
+
+* Major expense categories
+* Areas with higher spending
+* Expense distribution across categories
+* Spending patterns over different periods
+* Overall expense trends
+
+These insights can help in understanding spending behavior and making better expense management decisions.
+
 
