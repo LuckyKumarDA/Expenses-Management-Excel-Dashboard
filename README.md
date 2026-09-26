@@ -13,7 +13,7 @@ The project is presented in the following sequence:
 3. Complete Excel Project
 4. Key Insights
 
-## 1️⃣ Pivot Table Analysis
+## 01 Pivot Table.jpg
 
 Pivot Tables were created to summarize and analyze the expense data.
 
