@@ -42,7 +42,7 @@ The dashboard provides a visual summary of the expense data and makes it easier 
 
 ### Dashboard Preview
 
-![Expenses Dashboard](02_Dashboard.jpg)
+![Expenses Dashboard](02%20Dashboard.jpg)
 
 ### Dashboard Features
 
