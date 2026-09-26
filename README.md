@@ -32,3 +32,24 @@ The Pivot Table analysis helps to identify spending patterns, compare expenses, 
 - Major areas of spending
 
 Pivot Tables were used as the foundation for creating the final dashboard.
+
+## 2️⃣ Interactive Dashboard
+
+The Pivot Table analysis was used to create an interactive Excel dashboard.
+
+The dashboard provides a visual summary of the expense data and makes it easier to identify spending patterns and compare different expense categories.
+
+### Dashboard Preview
+
+![Expenses Dashboard](02_Dashboard.jpg)
+
+### Dashboard Features
+
+* Interactive charts and visualizations
+* Expense category analysis
+* Comparison of different expense types
+* Summary of overall expenses
+* Easy-to-understand visual representation
+
+The dashboard helps convert the summarized data into clear and meaningful visual insights.
+
