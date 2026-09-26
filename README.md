@@ -13,7 +13,7 @@ The project is presented in the following sequence:
 3. Complete Excel Project
 4. Key Insights
 
-## 01 Pivot Table.jpg
+## 01 Pivot Table 
 
 Pivot Tables were created to summarize and analyze the expense data.
 
@@ -21,7 +21,8 @@ The Pivot Table analysis helps to identify spending patterns, compare expenses, 
 
 ### Pivot Table
 
-![Pivot Table Analysis](01_Pivot_Table.jpg)
+![Pivot Table Analysis](01%20Pivot%20Table.jpg)
+
 
 ### What I Analyzed
 
